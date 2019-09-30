@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf8589d3-6115-4bf5-a5cf-700b7d7c8725" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NewsProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xxxx/__init__.py" beforeDir="false" />
+    <list default="true" id="cf8589d3-6115-4bf5-a5cf-700b7d7c8725" name="Default Changelist" comment="num5">
+      <change afterPath="$PROJECT_DIR$/empty/empty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/xxxx/say.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/empty/empty.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,16 +44,7 @@
         <option value="$PROJECT_DIR$/info/test.py" />
         <option value="$PROJECT_DIR$/test/sayhello.py" />
         <option value="$PROJECT_DIR$/xxxx/say.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/NewsProject.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/empty/empty.py" />
       </list>
     </option>
   </component>
@@ -68,6 +65,11 @@
             <path>
               <item name="NewsProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="NewsProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsProject" type="462c0819:PsiDirectoryNode" />
+              <item name="empty" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569829297473</updated>
-      <workItem from="1569829298571" duration="3581000" />
+      <workItem from="1569829298571" duration="3881000" />
     </task>
     <task id="LOCAL-00001" summary="hahahhahaha">
       <created>1569830771038</created>
@@ -141,11 +143,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569833120884</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="num5">
+      <created>1569834775810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569834775810</updated>
+    </task>
+    <task id="LOCAL-00006" summary="num6">
+      <created>1569834960900</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569834960900</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3581000" />
+    <option name="totallyTimeSpent" value="3881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="909" y="0" width="1009" height="1040" extended-state="0" />
@@ -180,7 +196,9 @@
     <MESSAGE value="hahahhahaha" />
     <MESSAGE value="num3" />
     <MESSAGE value="num4" />
-    <option name="LAST_COMMIT_MESSAGE" value="num4" />
+    <MESSAGE value="num5" />
+    <MESSAGE value="num6" />
+    <option name="LAST_COMMIT_MESSAGE" value="num6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -209,6 +227,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/empty/empty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
